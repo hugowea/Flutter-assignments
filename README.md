@@ -9,6 +9,11 @@ All the suggested widgets were used. Scaffold for making app-bar and separate bo
 code is formatted thanks to the command ```flutter format <<path>>```
  
 Debug bunner was deleted, and color of theme now is brown - it somehow corresponds to name of jokes author
+
+Link to the working APK: https://drive.google.com/file/d/1ptCMYHvRBUfsEC7CzQPSTqjBTlfBaKiz/view?usp=sharing
+
+Screens of app 
+
 ![image](https://user-images.githubusercontent.com/88401434/172069334-46f7cb2e-89e7-4160-891c-17b87cc10521.png)
 ![image](https://user-images.githubusercontent.com/88401434/172069352-d04aa282-acaf-44ad-a12b-f8d253cacdfd.png)
 ![image](https://user-images.githubusercontent.com/88401434/172069320-5b046005-4868-4eb2-a7f0-7f98568db154.png)
